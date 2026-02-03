@@ -80,6 +80,10 @@ base + {
 	    local obj = import "uk-corptax/research-dev.libsonnet";
 	    obj.element(c),
 
+	"off-payroll-working"(c)::
+	    local obj = import "uk-corptax/off-payroll-working.libsonnet";
+	    obj.element(c),
+
 	"tax-calculation"(c)::
 	    local obj = import "uk-corptax/tax-calculation.libsonnet";
 	    obj.element(c),
