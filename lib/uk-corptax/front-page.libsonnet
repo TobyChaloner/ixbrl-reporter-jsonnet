@@ -61,7 +61,15 @@
 			"id": "partner-in-a-firm",
 			"kind": "bool",
 			"value": false
-		    }
+		    },
+		    {
+			"id": "off-payroll-working-applicable",
+			"description": "Off Payroll Working Applicable",
+			"field": "-",
+			"context": "report-period",
+			"kind": "config-bool",
+			"key": "metadata.tax.off-payroll-working-applicable"
+		    },
 		]
 	    }
 	]
