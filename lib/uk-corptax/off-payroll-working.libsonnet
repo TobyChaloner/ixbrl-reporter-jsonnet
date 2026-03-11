@@ -59,6 +59,15 @@ base + {
 //net-turnover-off-payroll-working
 // This is the sum of gross-turnover less tax-nic-deductions
 // TODO Not sure if this is needed.
+		    {
+			"id": "net-turnover-off-payroll-working",
+			"kind": "computation",
+			"description": "Net turnover from inside OPW engagements",
+			"field": "-",
+			"context": "report-period",
+			"computation": "net-turnover-off-payroll-working",
+			"period-config": "metadata.tax.period"
+		    },
 
 		]
 	    }
