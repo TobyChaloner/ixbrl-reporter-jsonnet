@@ -148,6 +148,10 @@ sh test-examples/run-all
 
 Output in `test/output`.
 
+## See Also
+
+- User Contributions to the Wiki https://github.com/TobyChaloner/ixbrl-reporter-jsonnet/wiki
+
 ## Warranty
 
 This code and documentation comes with no warranty whatsoever.  See the
