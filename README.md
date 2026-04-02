@@ -150,7 +150,7 @@ Output in `test/output`.
 
 ## See Also
 
-- User Contributions to the Wiki https://github.com/TobyChaloner/ixbrl-reporter-jsonnet/wiki
+- User Contributions to the [Wiki](https://github.com/TobyChaloner/ixbrl-reporter-jsonnet/wiki)
 
 ## Warranty
 
