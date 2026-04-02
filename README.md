@@ -150,7 +150,7 @@ Output in `test/output`.
 
 ## See Also
 
-- The [Wiki](https://github.com/TobyChaloner/ixbrl-reporter-jsonnet/wiki) for this repository, which also covers using the related supporting tools for submitting Accounts and Corporation Tax.
+- The [Wiki](https://github.com/TobyChaloner/ixbrl-reporter-jsonnet/wiki) relating to submitting Accounts and Corporation Tax using this toolkit.
 
 ## Warranty
 
